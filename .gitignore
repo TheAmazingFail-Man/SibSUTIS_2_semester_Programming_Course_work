@@ -1,0 +1,6 @@
+bin/tournament-grid
+bin/t-g-test
+bin/matchhistory.txt
+bin/goalshistory.txt
+build/src/*.o
+build/test/*.o
